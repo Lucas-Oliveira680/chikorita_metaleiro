@@ -1,0 +1,54 @@
+* { box-sizing: border-box}
+
+body {
+    background-color: #000;
+    background-image: url('https://i.pinimg.com/originals/7a/79/a2/7a79a2885a548da22d2ad38a138ce0e4.gif');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: #ff0000;
+     font-size: 80px;
+     text-align: center;
+     font-family: 'Metal Mania', cursive;
+}
+
+h2 {
+    color: #ff0000;
+     font-size: 60px;
+     text-align: center;
+     font-family: 'Metal Mania', cursive;
+     margin: 0;
+     padding: 0;
+}
+h3 {
+    color: #ff0000;
+     font-size: 60px;
+     text-align: center;
+     font-family: 'Metal Mania', cursive;
+     margin: 0;
+     padding: 0;
+}
+
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+p {
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Metal Mania', cursive;
+    margin: 0;
+    padding: 0;
+}
